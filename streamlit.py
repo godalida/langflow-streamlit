@@ -32,7 +32,7 @@ def reload_messages():
 
 reload_messages()
 
-st.title("Welcome to My Streamlit Chat Application")
+st.title("Welcome to The Table Search Tool!")
 
 def callback(*args, **kwargs):
     pass
